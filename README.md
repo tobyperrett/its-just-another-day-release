@@ -1,6 +1,6 @@
 # It's Just Another Day: Unique Video Captioning by Discriminative Prompting
 
-This repo contains the code for the paper "It's Just Another Day: Unique Video Captioning by Discriminative Prompting".
+This repo contains the code for the paper: "It's Just Another Day: Unique Video Captioning by Discriminative Prompting", ACCV 2024 oral presentation.
 
 [Project Website](https://tobyperrett.github.io/its-just-another-day/)
 
