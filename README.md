@@ -111,7 +111,7 @@ If you want to extract your own features, then you can download the frames here:
 [timeloop_frames.zip](https://drive.google.com/file/d/1-_rG2azr81cM2GgjtGBTxG62qPSWQr3g/view?usp=sharing)
 
 Our repetition timestamps are here:
-[timeloop_timestamps.json]()
+[timeloop_timestamps.json](https://drive.google.com/file/d/1CTWn7sOvKJ1nL5gwpQi0YysaL5LhWA2b/view?usp=sharing)
 
 ## Citation
 
